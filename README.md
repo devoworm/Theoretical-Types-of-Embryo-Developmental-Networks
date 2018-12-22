@@ -1,1 +1,1 @@
-# Theoretical-Types-of-Embryo-Developmental-Networks
+# Theoretical Types of Embryo/Developmental Networks
