@@ -1,9 +1,11 @@
 # Theoretical Types of Embryo/Developmental Networks
 
 Basic Network Concepts and Similar Work:  
-1. Network Primer from NetSciEd  [link](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)  
+1. [Network Primer from NetSciEd](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)  
 
-2. Anatomical Networks  [link](https://anatomicalnetworks.com/)  
+2. [Anatomical Networks Approach](https://anatomicalnetworks.com/)  
+
+3. [Embryogenetic Connectome data from DevoWorm](https://github.com/devoworm/embryogenetic-connectome)
 
 Conventional types of complex network:  
 1. [Random Network](https://en.wikipedia.org/wiki/Random_graph)  
