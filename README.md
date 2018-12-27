@@ -7,7 +7,7 @@ Basic Network Concepts and Similar Work:
 
 3. [Embryogenetic Connectome data from DevoWorm](https://github.com/devoworm/embryogenetic-connectome)
 
-Conventional types of complex network:  
+Conventional Types of Complex Network:  
 1. [Random Network](https://en.wikipedia.org/wiki/Random_graph)  
 
 2. [Scale-free Network](https://en.wikipedia.org/wiki/Scale-free_network)  
@@ -16,9 +16,11 @@ Conventional types of complex network:
 
 These types are based on degree distribution and the global patterns of connectivity. These types do not account for connectivity based on geometric or spatial constraints.  
 
-Spatial Networks:  
+Types of Spatial Networks:  
 1. [Hyperbolic Geometric Graph](https://en.wikipedia.org/wiki/Hyperbolic_geometric_graph)  
 
 2. [Random Geometric Graph](https://en.wikipedia.org/wiki/Random_geometric_graph)  
 
-3. [Planar Graph](https://en.wikipedia.org/wiki/Planar_graph)
+3. [Planar Graph](https://en.wikipedia.org/wiki/Planar_graph)  
+
+These types are defined by their ability to capture and reproduce geometric features and spatial dependencies. However, these are no clear relationships between spatial connectivity and scaling laws, particularly as they relate to biological processes.  
