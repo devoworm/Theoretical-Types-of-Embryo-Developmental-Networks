@@ -24,3 +24,15 @@ Types of Spatial Networks:
 3. [Planar Graph](https://en.wikipedia.org/wiki/Planar_graph)  
 
 These types are defined by their ability to capture and reproduce geometric features and spatial dependencies. However, these are no clear relationships between spatial connectivity and scaling laws, particularly as they relate to biological processes.  
+
+In vivo:
+
+We find a number of global patterns in embryo networks that do not conform with a typical mathematical model of connectivity. Some of these features have to do with differentiation, while others have to do with polarity and the geometry of the emerging phenotpye:  
+
+1) spatial segregation by sublineage a few rounds of division after the founder cells appear for major sublineages. 
+
+2) spatial diversification of sublineages over time.
+
+3) spatial re-segregation of cells as tissues begin to form.
+
+In embryo networks, so-called nodes are cells that are both small and have many immediate neighbors. 
