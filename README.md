@@ -25,7 +25,7 @@ Types of Spatial Networks:
 
 These types are defined by their ability to capture and reproduce geometric features and spatial dependencies. However, these are no clear relationships between spatial connectivity and scaling laws, particularly as they relate to biological processes.  
 
-In vivo:
+_In vivo_:
 
 We find a number of global patterns in embryo networks that do not conform with a typical mathematical model of connectivity. Some of these features have to do with differentiation, while others have to do with polarity and the geometry of the emerging phenotpye:  
 
@@ -35,4 +35,6 @@ We find a number of global patterns in embryo networks that do not conform with 
 
 3) spatial re-segregation of cells as tissues begin to form.
 
-In embryo networks, so-called nodes are cells that are both small and have many immediate neighbors. 
+In embryo networks, so-called nodes are cells that are both small and have many immediate neighbors.  
+
+See examples from various species in repository.
