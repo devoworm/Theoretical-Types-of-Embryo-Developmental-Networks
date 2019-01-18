@@ -25,6 +25,13 @@ Types of Spatial Networks:
 
 3. [Planar Graph](https://en.wikipedia.org/wiki/Planar_graph)  
 
+Types of Topological Minimization:
+1. [Steiner Tree](https://en.wikipedia.org/wiki/Steiner_tree_problem)  
+
+2. [Dependency Network](https://en.wikipedia.org/wiki/Dependency_network)  
+
+3. [Interdependent Network](https://en.wikipedia.org/wiki/Interdependent_networks)  
+
 These types are defined by their ability to capture and reproduce geometric features and spatial dependencies. However, these are no clear relationships between spatial connectivity and scaling laws, particularly as they relate to biological processes.  
 
 _In vivo_:
