@@ -45,7 +45,7 @@ We find a number of global patterns in embryo networks that do not conform with 
 
 In embryo networks, so-called nodes are cells that are both small and have many immediate neighbors.  
 
-See examples from various species in repository.
+See examples from various species in repository, and check out work on [Zebrafish embryo for Zygote and Cleavage stages](https://github.com/devoworm/zebrafish-embryo).  
 
 
 Bibliography:  
