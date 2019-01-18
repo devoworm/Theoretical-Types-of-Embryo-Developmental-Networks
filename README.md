@@ -49,10 +49,12 @@ See examples from various species in repository.
 
 
 Bibliography:  
-Alicea, B. and Gordon R. (2018). [Cell Differentiation Processes as Spatial Networks: identifying four-dimensional structure in embryogenesis](https://www.sciencedirect.com/science/article/pii/S030326471830220X?via%3Dihub). _BioSystems_, 173, 235-246. [doi:10.1016/j.biosystems.2018.09.009](https://www.sciencedirect.com/science/article/pii/S030326471830220X?via%3Dihub)
+Alicea, B. and Gordon R. (2018). [Cell Differentiation Processes as Spatial Networks: identifying four-dimensional structure in embryogenesis](https://www.sciencedirect.com/science/article/pii/S030326471830220X?via%3Dihub). _BioSystems_, 173, 235-246. [doi:10.1016/j.biosystems.2018.09.009](https://www.sciencedirect.com/science/article/pii/S030326471830220X?via%3Dihub).
 
+Esteve-Altava B, Marugán-Lobón J, Botella H, and Rasskin-Gutman D. (2011). [Network models in anatomical systems](https://www.researchgate.net/publication/51632144_Network_Models_in_Anatomical_Systems). Journal of Anthropological Sciences, 89, 175-184. [doi:10.4436/jass.89016](https://www.researchgate.net/publication/51632144_Network_Models_in_Anatomical_Systems).
 
+Esteve-Altava, B., Marugán-Lobon, J., Botella, H. (2013). [Structural Constraints in the Evolution of the Tetrapod Skull Complexity: Williston’s Law Revisited Using Network Models](https://doi.org/10.1007/s11692-012-9200-9). Evolutionary Biology, 40, 209. [doi:10.1007/s11692-012-9200-9](https://doi.org/10.1007/s11692-012-9200-9).
 
-Jackson, M.D.B., Duran-Nebreda, S., and Bassel, G.W. (2017). [Network-based approaches to quantify multicellular development](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0484). _Journal of the Royal Society Interface_, 14(135), 20170484. [doi:10.1098/rsif.2017.0484](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0484)
+Jackson, M.D.B., Duran-Nebreda, S., and Bassel, G.W. (2017). [Network-based approaches to quantify multicellular development](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0484). _Journal of the Royal Society Interface_, 14(135), 20170484. [doi:10.1098/rsif.2017.0484](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0484).
 
-Jackson, M.D.B., Xu, H., Duran-Nebreda, S., Stamm, P., Bassel, G.W. (2017). [Topological analysis of multicellular complexity in the plant hypocotyl](https://elifesciences.org/articles/26023). _eLife_, 6, e26023. [doi:10.7554/eLife.26023](https://elifesciences.org/articles/26023)
+Jackson, M.D.B., Xu, H., Duran-Nebreda, S., Stamm, P., Bassel, G.W. (2017). [Topological analysis of multicellular complexity in the plant hypocotyl](https://elifesciences.org/articles/26023). _eLife_, 6, e26023. [doi:10.7554/eLife.26023](https://elifesciences.org/articles/26023).
