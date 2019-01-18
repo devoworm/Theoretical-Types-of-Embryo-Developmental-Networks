@@ -7,7 +7,9 @@ Basic Network Concepts and Similar Work:
 
 3. [Embryogenetic Connectome data from DevoWorm](https://github.com/devoworm/embryogenetic-connectome)  
 
-4. Jackson, M.D.B., Duran-Nebreda, S., and Bassel, G.W. (2017). [Network-based approaches to quantify multicellular development](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0484). Journal of the Royal Society Interface, 14(135), 20170484. [doi:10.1098/rsif.2017.0484](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0484)
+4. Jackson, M.D.B., Duran-Nebreda, S., and Bassel, G.W. (2017). [Network-based approaches to quantify multicellular development](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0484). _Journal of the Royal Society Interface_, 14(135), 20170484. [doi:10.1098/rsif.2017.0484](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0484)
+
+5. Jackson, M.D.B., Xu, H., Duran-Nebreda, S., Stamm, P., Bassel, G.W. (2017). [Topological analysis of multicellular complexity in the plant hypocotyl](https://elifesciences.org/articles/26023). _eLife_, 6, e26023. [doi:10.7554/eLife.26023](https://elifesciences.org/articles/26023)
 
 Conventional Types of Complex Network:  
 1. [Random Network](https://en.wikipedia.org/wiki/Random_graph)  
