@@ -1,15 +1,13 @@
 # Theoretical Types of Embryo/Developmental Networks
 
-Basic Network Concepts and Similar Work:  
+Basic Network Concepts and Similar Work (see also bibiography):  
 1. [Network Primer from NetSciEd](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)  
 
 2. [Anatomical Networks Approach](https://anatomicalnetworks.com/)  
 
 3. [Embryogenetic Connectome data from DevoWorm](https://github.com/devoworm/embryogenetic-connectome)  
 
-4. Jackson, M.D.B., Duran-Nebreda, S., and Bassel, G.W. (2017). [Network-based approaches to quantify multicellular development](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0484). _Journal of the Royal Society Interface_, 14(135), 20170484. [doi:10.1098/rsif.2017.0484](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0484)
-
-5. Jackson, M.D.B., Xu, H., Duran-Nebreda, S., Stamm, P., Bassel, G.W. (2017). [Topological analysis of multicellular complexity in the plant hypocotyl](https://elifesciences.org/articles/26023). _eLife_, 6, e26023. [doi:10.7554/eLife.26023](https://elifesciences.org/articles/26023)
+4. [Matthew D.B. Jackson, University of Birmingham](https://www.researchgate.net/profile/Matthew_Jackson22)  
 
 Conventional Types of Complex Network:  
 1. [Random Network](https://en.wikipedia.org/wiki/Random_graph)  
@@ -36,8 +34,7 @@ Types of Topological Minimization:
 
 These types are defined by their ability to capture and reproduce geometric features and spatial dependencies. However, these are no clear relationships between spatial connectivity and scaling laws, particularly as they relate to biological processes.  
 
-_In vivo_:
-
+_In vivo_:  
 We find a number of global patterns in embryo networks that do not conform with a typical mathematical model of connectivity. Some of these features have to do with differentiation, while others have to do with polarity and the geometry of the emerging phenotpye:  
 
 1) spatial segregation by sublineage a few rounds of division after the founder cells appear for major sublineages. 
@@ -49,3 +46,13 @@ We find a number of global patterns in embryo networks that do not conform with 
 In embryo networks, so-called nodes are cells that are both small and have many immediate neighbors.  
 
 See examples from various species in repository.
+
+
+Bibliography:  
+Alicea, B. and Gordon R. (2018). [Cell Differentiation Processes as Spatial Networks: identifying four-dimensional structure in embryogenesis](https://www.sciencedirect.com/science/article/pii/S030326471830220X?via%3Dihub). _BioSystems_, 173, 235-246. [doi:10.1016/j.biosystems.2018.09.009](https://www.sciencedirect.com/science/article/pii/S030326471830220X?via%3Dihub)
+
+
+
+Jackson, M.D.B., Duran-Nebreda, S., and Bassel, G.W. (2017). [Network-based approaches to quantify multicellular development](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0484). _Journal of the Royal Society Interface_, 14(135), 20170484. [doi:10.1098/rsif.2017.0484](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0484)
+
+Jackson, M.D.B., Xu, H., Duran-Nebreda, S., Stamm, P., Bassel, G.W. (2017). [Topological analysis of multicellular complexity in the plant hypocotyl](https://elifesciences.org/articles/26023). _eLife_, 6, e26023. [doi:10.7554/eLife.26023](https://elifesciences.org/articles/26023)
