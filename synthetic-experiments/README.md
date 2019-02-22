@@ -30,3 +30,9 @@ Pairwise separability:
 1) 3-D positions --> PCA --> PC1 vs. PC2 bivariate plot --> find Euclidean distance --> plot pairwise connectivity --> evaluated at a given threshold tau.
 
 2) use a spherical version of 1). 
+
+Matching with connectome based on gap junctions:
+
+* generate 3-D positions by mapping differentiated neuronal cells to position of last developmental precursor. 
+
+* apply pairwise separability method to cells, using ID to characterize modules.
