@@ -16,7 +16,7 @@ Cluster or community is a group of cells of same size in a restricted spatial lo
 * cell size is based on symmetrical nature of partitions (k-D tree algorithm).
 
 
-Oriented cell diivsions not required for __Drosophila__ wing shape. __Current Biology__, 29 1-9 (2019).
+Oriented cell diivsions not required for _Drosophila_ wing shape. _Current Biology_, 29 1-9 (2019).
 
 * orientation of cell divisions, "axial" network structure.
 
