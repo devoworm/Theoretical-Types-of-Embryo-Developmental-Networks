@@ -47,6 +47,16 @@ In embryo networks, so-called nodes are cells that are both small and have many 
 
 See examples from various species in repository, and check out work on [Zebrafish embryo for Zygote and Cleavage stages](https://github.com/devoworm/zebrafish-embryo).  
 
+Criticality in the Embryo:
+
+Avalanche model:  
+
+
+Jamming transition:  
+Mongera, A., Serwane, F., Rowghanian, P., Gustafson, H.J., Shelton, E., Kealhofer, D.A., Carn, E.K., Serwane, F., Lucio, A.A., Giammona, J., and Campas, O. (2018). A fluid-to-solid jamming transition underlies vertebrate body axis elongation. _Nature_, 561, 401-405.
+
+Sadati, M., Qazvini, N.T., Krishnan, R., Park, C.Y., Fredberg, J.J. (2013). Collective migration and cell jamming. _Differentiation_, 86(3), 121-125.
+
 
 Bibliography:  
 Alicea, B. and Gordon R. (2018). [Cell Differentiation Processes as Spatial Networks: identifying four-dimensional structure in embryogenesis](https://www.sciencedirect.com/science/article/pii/S030326471830220X?via%3Dihub). _BioSystems_, 173, 235-246. [doi:10.1016/j.biosystems.2018.09.009](https://www.sciencedirect.com/science/article/pii/S030326471830220X?via%3Dihub).
