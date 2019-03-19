@@ -59,6 +59,13 @@ Mongera, A., Serwane, F., Rowghanian, P., Gustafson, H.J., Shelton, E., Kealhofe
 
 Sadati, M., Qazvini, N.T., Krishnan, R., Park, C.Y., Fredberg, J.J. (2013). Collective migration and cell jamming. _Differentiation_, 86(3), 121-125.  
 
+## Wiring Minimization (Efficiency of Wiring):
+
+Chklovskii, D.B., Schikorski, T., Stevens, C.F. (2002). [Wiring Optimization in Cortical Circuits](https://www.sciencedirect.com/science/article/pii/S0896627302006797). _Neuron_, 34, 341–347.  
+
+Raj, A., Chen, Y-H. (2011). [The Wiring Economy Principle: Connectivity Determines Anatomy in the Human Brain](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0014832). _PLoS One_, 6(9), e14832.  
+Sporns, O. (2011). [The non-random brain: effciency, economy, and complex dynamics](https://www.frontiersin.org/articles/10.3389/fncom.2011.00005/full). _Frontiers in Computational Neuroscience_, doi:10.3389/fncom.2011.00005.  
+
 ## Bibliography:  
 Alicea, B. and Gordon R. (2018). [Cell Differentiation Processes as Spatial Networks: identifying four-dimensional structure in embryogenesis](https://www.sciencedirect.com/science/article/pii/S030326471830220X?via%3Dihub). _BioSystems_, 173, 235-246. [doi:10.1016/j.biosystems.2018.09.009](https://www.sciencedirect.com/science/article/pii/S030326471830220X?via%3Dihub).  
 
