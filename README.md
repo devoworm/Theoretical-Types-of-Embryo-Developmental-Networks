@@ -67,6 +67,10 @@ Raj, A., Chen, Y-H. (2011). [The Wiring Economy Principle: Connectivity Determin
 
 Sporns, O. (2011). [The non-random brain: effciency, economy, and complex dynamics](https://www.frontiersin.org/articles/10.3389/fncom.2011.00005/full). _Frontiers in Computational Neuroscience_, doi:10.3389/fncom.2011.00005.  
 
+## Standards:  
+INCF SIG: [Standard Representations of Network Structures](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups/incf-sig-on-standardised).
+
+
 ## Bibliography:  
 Alicea, B. and Gordon R. (2018). [Cell Differentiation Processes as Spatial Networks: identifying four-dimensional structure in embryogenesis](https://www.sciencedirect.com/science/article/pii/S030326471830220X?via%3Dihub). _BioSystems_, 173, 235-246. [doi:10.1016/j.biosystems.2018.09.009](https://www.sciencedirect.com/science/article/pii/S030326471830220X?via%3Dihub).  
 
