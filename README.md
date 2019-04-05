@@ -67,6 +67,8 @@ Raj, A., Chen, Y-H. (2011). [The Wiring Economy Principle: Connectivity Determin
 
 Sporns, O. (2011). [The non-random brain: effciency, economy, and complex dynamics](https://www.frontiersin.org/articles/10.3389/fncom.2011.00005/full). _Frontiers in Computational Neuroscience_, doi:10.3389/fncom.2011.00005.  
 
+Avena-Koenigsberger, A., Yan, X., Kolchinsky, A., van den Heuvel, M.P., Hagmann, P., Sporns, O. (2019). [A spectrum of routing strategies for brain networks](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006833&type=printable). PLoS Computational Biology, 15(3), e1006833.  
+
 ## Standards:  
 INCF SIG: [Standard Representations of Network Structures](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups/incf-sig-on-standardised).
 
