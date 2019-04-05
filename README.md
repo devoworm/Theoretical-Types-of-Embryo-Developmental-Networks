@@ -67,10 +67,12 @@ Raj, A., Chen, Y-H. (2011). [The Wiring Economy Principle: Connectivity Determin
 
 Sporns, O. (2011). [The non-random brain: effciency, economy, and complex dynamics](https://www.frontiersin.org/articles/10.3389/fncom.2011.00005/full). _Frontiers in Computational Neuroscience_, doi:10.3389/fncom.2011.00005.  
 
-Avena-Koenigsberger, A., Yan, X., Kolchinsky, A., van den Heuvel, M.P., Hagmann, P., Sporns, O. (2019). [A spectrum of routing strategies for brain networks](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006833&type=printable). PLoS Computational Biology, 15(3), e1006833.  
+Avena-Koenigsberger, A., Yan, X., Kolchinsky, A., van den Heuvel, M.P., Hagmann, P., Sporns, O. (2019). [A spectrum of routing strategies for brain networks](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006833&type=printable). _PLoS Computational Biology_, 15(3), e1006833.  
 
-## Biological Modularity:  
-Azulay, A., Itskovits, E., and Zaslaver, A. (2016). [The _C. elegans_ Connectome Consists of Homogenous Circuits with Defined Functional Roles](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005021). PLoS Computational Biology, 12(9), e1005021.
+## Network Structure:
+Watts, D.J. and Strogatz, S.H. (1998). [Collective dynamics of small-world networks](https://www.nature.com/articles/30918). _Nature_, 393, 440-442.
+
+Azulay, A., Itskovits, E., and Zaslaver, A. (2016). [The _C. elegans_ Connectome Consists of Homogenous Circuits with Defined Functional Roles](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005021). _PLoS Computational Biology_, 12(9), e1005021.
 
 ## Standards:  
 INCF SIG: [Standard Representations of Network Structures](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups/incf-sig-on-standardised).
