@@ -69,6 +69,9 @@ Sporns, O. (2011). [The non-random brain: effciency, economy, and complex dynami
 
 Avena-Koenigsberger, A., Yan, X., Kolchinsky, A., van den Heuvel, M.P., Hagmann, P., Sporns, O. (2019). [A spectrum of routing strategies for brain networks](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006833&type=printable). _PLoS Computational Biology_, 15(3), e1006833.  
 
+Kaiser, M. and Hilgetag, C.C. (2006). [Nonoptimal Component Placement, but Short Processing Paths, due to Long-Distance
+Projections in Neural Systems](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020095). PLoS Computational Biology, 2(7), e95. 
+
 ## Network Structure:
 Watts, D.J. and Strogatz, S.H. (1998). [Collective dynamics of small-world networks](https://www.nature.com/articles/30918). _Nature_, 393, 440-442.
 
