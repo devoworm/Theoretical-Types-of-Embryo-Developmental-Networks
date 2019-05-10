@@ -75,7 +75,9 @@ Projections in Neural Systems](https://journals.plos.org/ploscompbiol/article?id
 ## Network Structure:
 Watts, D.J. and Strogatz, S.H. (1998). [Collective dynamics of small-world networks](https://www.nature.com/articles/30918). _Nature_, 393, 440-442.
 
-Azulay, A., Itskovits, E., and Zaslaver, A. (2016). [The _C. elegans_ Connectome Consists of Homogenous Circuits with Defined Functional Roles](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005021). _PLoS Computational Biology_, 12(9), e1005021.
+Azulay, A., Itskovits, E., and Zaslaver, A. (2016). [The _C. elegans_ Connectome Consists of Homogenous Circuits with Defined Functional Roles](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005021). _PLoS Computational Biology_, 12(9), e1005021.  
+
+Bassett, D.S. and Bullmore, E.T. (2017). [Small-World Brain Networks Revisited](https://journals.sagepub.com/doi/full/10.1177/1073858416667720). The Neuroscientist, 23(5), 499–516.  
 
 ## Standards:  
 INCF SIG: [Standard Representations of Network Structures](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups/incf-sig-on-standardised).
