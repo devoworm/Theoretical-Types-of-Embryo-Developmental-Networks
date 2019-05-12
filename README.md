@@ -25,6 +25,11 @@ These types are based on degree distribution and the global patterns of connecti
 
 3. [Planar Graph](https://en.wikipedia.org/wiki/Planar_graph)  
 
+## Types of Node and Edge Construction:  
+1. [Barabási–Albert model (preferential attachment)](https://en.wikipedia.org/wiki/Barab%C3%A1si%E2%80%93Albert_model)  
+
+2. [Erdos–Renyi model (equiprobable edges)](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model)  
+
 ## Types of Topological Minimization:  
 1. [Steiner Tree](https://en.wikipedia.org/wiki/Steiner_tree_problem)  
 
