@@ -30,6 +30,8 @@ These types are based on degree distribution and the global patterns of connecti
 
 2. [Erdos–Renyi model (equiprobable edges)](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model)  
 
+3. [Fitness model](https://en.wikipedia.org/wiki/Fitness_model_(network_theory)  
+
 ## Types of Topological Minimization:  
 1. [Steiner Tree](https://en.wikipedia.org/wiki/Steiner_tree_problem)/[Voronoi Trees](https://en.wikipedia.org/wiki/Voronoi_diagram)
 
