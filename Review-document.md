@@ -86,6 +86,8 @@ Azulay, A., Itskovits, E., and Zaslaver, A. (2016). [The _C. elegans_ Connectome
 
 Bassett, D.S. and Bullmore, E.T. (2017). [Small-World Brain Networks Revisited](https://journals.sagepub.com/doi/full/10.1177/1073858416667720). _The Neuroscientist_, 23(5), 499–516.  
 
+Holme, P. (2019). [Rare and everywhere: Perspectives on scale-free networks](https://doi.org/10.1038/s41467-019-09038-8). _Nature Communications_, doi:10.1038/s41467-019-09038-8.  
+
 Majhi, S., Bera, B.K., Ghosh, D., Perc, M. (2018). [Chimera states in neuronal networks: A review](https://www.sciencedirect.com/science/article/pii/S1571064518301088). _Physics of Life Reviews_, doi:10.1016/j.plrev.2018.09.003.
 
 ## Standards:  
