@@ -79,16 +79,18 @@ Avena-Koenigsberger, A., Yan, X., Kolchinsky, A., van den Heuvel, M.P., Hagmann,
 Kaiser, M. and Hilgetag, C.C. (2006). [Nonoptimal Component Placement, but Short Processing Paths, due to Long-Distance
 Projections in Neural Systems](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020095). _PLoS Computational Biology_, 2(7), e95. 
 
-## Network Structure:
-Watts, D.J. and Strogatz, S.H. (1998). [Collective dynamics of small-world networks](https://www.nature.com/articles/30918). _Nature_, 393, 440-442.
-
+## Network Structure:  
 Azulay, A., Itskovits, E., and Zaslaver, A. (2016). [The _C. elegans_ Connectome Consists of Homogenous Circuits with Defined Functional Roles](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005021). _PLoS Computational Biology_, 12(9), e1005021.  
 
 Bassett, D.S. and Bullmore, E.T. (2017). [Small-World Brain Networks Revisited](https://journals.sagepub.com/doi/full/10.1177/1073858416667720). _The Neuroscientist_, 23(5), 499–516.  
 
 Holme, P. (2019). [Rare and everywhere: Perspectives on scale-free networks](https://doi.org/10.1038/s41467-019-09038-8). _Nature Communications_, doi:10.1038/s41467-019-09038-8.  
 
-Majhi, S., Bera, B.K., Ghosh, D., Perc, M. (2018). [Chimera states in neuronal networks: A review](https://www.sciencedirect.com/science/article/pii/S1571064518301088). _Physics of Life Reviews_, doi:10.1016/j.plrev.2018.09.003.
+Majhi, S., Bera, B.K., Ghosh, D., Perc, M. (2018). [Chimera states in neuronal networks: A review](https://www.sciencedirect.com/science/article/pii/S1571064518301088). _Physics of Life Reviews_, doi:10.1016/j.plrev.2018.09.003.   
+
+Wig, G.S. (2017). [Segregated Systems of Human Brain Networks](https://www.sciencedirect.com/science/article/pii/S1364661317301948). _Trends in Cognitive Science_, 21(12), 981-996. doi:10.1016/j.tics.2017.09.006   
+
+Watts, D.J. and Strogatz, S.H. (1998). [Collective dynamics of small-world networks](https://www.nature.com/articles/30918). _Nature_, 393, 440-442.   
 
 ## Standards:  
 INCF SIG: [Standard Representations of Network Structures](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups/incf-sig-on-standardised).
