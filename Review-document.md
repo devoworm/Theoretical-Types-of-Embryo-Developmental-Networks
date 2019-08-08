@@ -25,12 +25,16 @@ These types are based on degree distribution and the global patterns of connecti
 
 3. [Planar Graph](https://en.wikipedia.org/wiki/Planar_graph)  
 
+These types do account for connectivity based on geometric or spatial constraints, and provide a means to model phenomena that are dependent on spatial structure.    
+
 ## Types of Node and Edge Construction:  
 1. [Barabási–Albert model (preferential attachment)](https://en.wikipedia.org/wiki/Barab%C3%A1si%E2%80%93Albert_model)  
 
 2. [Erdos–Renyi model (equiprobable edges)](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model)  
 
 3. [Fitness model](https://en.wikipedia.org/wiki/Fitness_model_(network_theory))  
+
+These models account for the probability of all connections between nodes. In the equiprobable case, any one node can be connected to any other node with equal probability. In other models, there is bias for certain nodes given active processes (selection, decision-making bias).  
 
 ## Types of Topological Minimization:  
 1. [Steiner Tree](https://en.wikipedia.org/wiki/Steiner_tree_problem)/[Voronoi Trees](https://en.wikipedia.org/wiki/Voronoi_diagram)
