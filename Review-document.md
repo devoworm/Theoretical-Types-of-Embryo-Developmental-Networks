@@ -7,7 +7,7 @@
 
 3. [Embryogenetic Connectome data from DevoWorm](https://github.com/devoworm/embryogenetic-connectome)  
 
-4. [Matthew D.B. Jackson](https://www.researchgate.net/profile/Matthew_Jackson22) and the [Bassell Lab](http://www.georgebassellab.com/datasets/), University of Birmingham
+4. [Matthew D.B. Jackson](https://www.researchgate.net/profile/Matthew_Jackson22) and the [Bassell Lab](http://www.georgebassellab.com/datasets/), University of Birmingham (UK)
 
 ## Conventional Types of Complex Network:  
 1. [Random Network](https://en.wikipedia.org/wiki/Random_graph)  
