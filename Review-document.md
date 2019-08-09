@@ -1,5 +1,15 @@
 # Theoretical Types of Embryo/Developmental Networks  
 
+## Work from the DevoWorm group:
+
+### Papers   
+Alicea, B. and Gordon R. (2018). [Cell Differentiation Processes as Spatial Networks: identifying four-dimensional structure in embryogenesis](https://peerj.com/preprints/26587/). _BioSystems_, 173, 235-246.
+
+Alicea, B. (2017). [The Emergent Connectome in _Caenorhabditis elegans_ Embryogenesis](https://doi.org/10.1101/146035). _BioSystems_, 173, 247-255.
+
+### Open Datasets   
+Alicea, B., Gordon, R., and Banerjee, A. (2018). [Embryo networks and connectomes in _Caenorhabditis elegans_](https://osf.io/q9jvb/). doi:10.17605/OSF.IO/Q9JVB.   
+
 ## Basic Network Concepts and Similar Work (see also bibiography):  
 1. [Network Primer from NetSciEd](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)  
 
