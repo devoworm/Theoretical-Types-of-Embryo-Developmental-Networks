@@ -68,7 +68,7 @@ In embryo networks, so-called nodes are cells that are both small and have many 
 
 See examples from various species in repository, and check out work on [Zebrafish embryo for Zygote and Cleavage stages](https://github.com/devoworm/zebrafish-embryo).  
 
-## Criticality in the Embryo:  
+## Criticality in the Embryo and Developing Nervous System:  
 
 ### Avalanche model:  
 Vollmer, J., Casares, F., and Iber, D. (2017). [Growth and size control during development](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5717347/). _Open Biology_, 7, 170190.  
@@ -79,6 +79,10 @@ Dhar, D., and Sadhu, T. (2013). [A sandpile model for proportionate growth](http
 Mongera, A., Serwane, F., Rowghanian, P., Gustafson, H.J., Shelton, E., Kealhofer, D.A., Carn, E.K., Serwane, F., Lucio, A.A., Giammona, J., and Campas, O. (2018). [A fluid-to-solid jamming transition underlies vertebrate body axis elongation](https://www.nature.com/articles/s41586-018-0479-2). _Nature_, 561, 401-405.  
 
 Sadati, M., Qazvini, N.T., Krishnan, R., Park, C.Y., Fredberg, J.J. (2013). [Collective migration and cell jamming](https://www.sciencedirect.com/science/article/pii/S0301468113000170). _Differentiation_, 86(3), 121-125.  
+
+### Spreading Process Criticality
+Cota, W., Odor, G., and Ferreira, S.C. (2018). [Griffiths phases in infinite-dimensional, non-hierarchical modular 
+networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6002411/). _Scientific Reports_, 8, 9144. doi:10.1038/s41598-018-27506-x.
 
 ## Wiring Minimization (Efficiency of Wiring):
 
