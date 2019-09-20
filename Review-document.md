@@ -98,9 +98,14 @@ Azulay, A., Itskovits, E., and Zaslaver, A. (2016). [The _C. elegans_ Connectome
 
 Bassett, D.S. and Bullmore, E.T. (2017). [Small-World Brain Networks Revisited](https://journals.sagepub.com/doi/full/10.1177/1073858416667720). _The Neuroscientist_, 23(5), 499–516.  
 
+Hilgetag, C.C. and Goulas, A. (2016). [Is the brain really a small-world network](https://link.springer.com/article/10.1007/s00429-015-1035-6)? _Brain Structure and Function_, 221, 2361–2366. doi:10.1007/s00429-015-1035-6
+
 Holme, P. (2019). [Rare and everywhere: Perspectives on scale-free networks](https://doi.org/10.1038/s41467-019-09038-8). _Nature Communications_, doi:10.1038/s41467-019-09038-8.  
 
-Majhi, S., Bera, B.K., Ghosh, D., Perc, M. (2018). [Chimera states in neuronal networks: A review](https://www.sciencedirect.com/science/article/pii/S1571064518301088). _Physics of Life Reviews_, doi:10.1016/j.plrev.2018.09.003.   
+Majhi, S., Bera, B.K., Ghosh, D., Perc, M. (2018). [Chimera states in neuronal networks: A review](https://www.sciencedirect.com/science/article/pii/S1571064518301088). _Physics of Life Reviews_, doi:10.1016/j.plrev.2018.09.003.  
+
+Papo, D., Zanin, M., Martinez, J.H., and Buldu, J.M. (2016). [Beware of the Small-World Neuroscientist](https://doi.org/10.3389/fnhum.2016.00096)! _Frontiers in Human Neuroscience_,
+doi:10.3389/fnhum.2016.00096.   
 
 Wig, G.S. (2017). [Segregated Systems of Human Brain Networks](https://www.sciencedirect.com/science/article/pii/S1364661317301948). _Trends in Cognitive Science_, 21(12), 981-996. doi:10.1016/j.tics.2017.09.006   
 
