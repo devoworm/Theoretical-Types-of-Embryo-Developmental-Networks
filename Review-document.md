@@ -85,7 +85,7 @@ Mongera, A., Serwane, F., Rowghanian, P., Gustafson, H.J., Shelton, E., Kealhofe
 
 Sadati, M., Qazvini, N.T., Krishnan, R., Park, C.Y., Fredberg, J.J. (2013). [Collective migration and cell jamming](https://www.sciencedirect.com/science/article/pii/S0301468113000170). _Differentiation_, 86(3), 121-125.  
 
-### Spreading Process Criticality
+### Propagation Criticality
 Cota, W., Odor, G., and Ferreira, S.C. (2018). [Griffiths phases in infinite-dimensional, non-hierarchical modular 
 networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6002411/). _Scientific Reports_, 8, 9144. doi:10.1038/s41598-018-27506-x.
 
