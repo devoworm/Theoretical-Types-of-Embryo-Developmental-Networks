@@ -10,6 +10,8 @@ Alicea, B. (2017). [The Emergent Connectome in _Caenorhabditis elegans_ Embryoge
 ### Open Datasets   
 Alicea, B., Gordon, R., and Banerjee, A. (2018). [Embryo networks and connectomes in _Caenorhabditis elegans_](https://osf.io/q9jvb/). doi:10.17605/OSF.IO/Q9JVB. 
 
+[Connectome Datasets](https://github.com/Orthogonal-Research-Lab/GSoC-Braitenberg-Vehicles/tree/master/Connectome%20Datasets), Orthogonal Research and Education Laboratory.
+
 ### Synthetic and Pseudo-data
 Network Emergent Connectivity using TSP and Euler Paths  [Github repo](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks/tree/master/Network-Connectivity-TSP-Experiments),   [talk](https://docs.google.com/presentation/d/1k0Bkqlbrxo9rZTCa21YMs4BEDWNzSSUpi4GjHDuoUnk/edit#slide=id.p)
 
