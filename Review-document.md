@@ -113,6 +113,8 @@ Holme, P. (2019). [Rare and everywhere: Perspectives on scale-free networks](htt
 
 Majhi, S., Bera, B.K., Ghosh, D., Perc, M. (2018). [Chimera states in neuronal networks: A review](https://www.sciencedirect.com/science/article/pii/S1571064518301088). _Physics of Life Reviews_, doi:10.1016/j.plrev.2018.09.003.  
 
+Muldoon, S.F., Bridgeford, E.W., & Bassett, D.S. (2016). [Small-World Propensity and Weighted Brain Networks](https://www.nature.com/articles/srep22057). Scientific Reports, 6, 22057.  
+
 Papo, D., Zanin, M., Martinez, J.H., and Buldu, J.M. (2016). [Beware of the Small-World Neuroscientist](https://doi.org/10.3389/fnhum.2016.00096)! _Frontiers in Human Neuroscience_,
 doi:10.3389/fnhum.2016.00096.   
 
