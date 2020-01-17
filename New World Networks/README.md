@@ -1,6 +1,20 @@
+### Introduction
+
 New World Networks are networks that expand as a result of a growth/reduction or differentiation/conversion process.
 
-##### Key points:
+* new world networks are embryogenetc networks that expand according to a connectivity rule (e.g. preferential attachment).
+
+Propose a few connection rules: 
+
+1) developmental lineage proximity.
+
+2) fellow sisters (sister cells).
+
+3) common fate.
+
+4) bilateral pairs (differentiation).
+
+#### Key points:
 
 * number of nodes grows or shrinks at each time point. Subsequent effects on the number and distribution of edges in the network.
 
