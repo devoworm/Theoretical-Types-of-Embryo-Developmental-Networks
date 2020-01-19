@@ -8,16 +8,19 @@ New World Networks are networks that expand as a result of a growth/reduction or
 
 #### Propose a few connection rules: 
 
-1) developmental lineage proximity.
+1) birth time.
 
-2) fellow sisters (sister cells).
+2) developmental lineage proximity.
 
-3) common fate.
+3) fellow sisters (sister cells born of the same mother cell).
 
-4) bilateral pairs (differentiation).
+4) common fate.
 
-Some of these are demonstrated for _C. elegans_ in [Developmental trajectory of _Caenorhabditis elegans_ nervous system governs its
-structural organization](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007602) 
+5) bilateral pairs (differentiation).
+
+Some of these (2-5) are demonstrated for _C. elegans_ in [Developmental trajectory of _Caenorhabditis elegans_ nervous system governs its structural organization](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007602) 
+
+These cells connect according to a connection rule, which then influences later identity and activity in ways that either introduce asymmetry or reinforce symmetry. The can be modeled using a first-mover game as shown in [Raising the Connectome: the emergence of neuronal activity and behavior in _C. elegans_](https://www.biorxiv.org/content/10.1101/2020.01.06.896308v1).
 
 #### Co-evolving networks: developmental connectome and embryogenetic network:
 
