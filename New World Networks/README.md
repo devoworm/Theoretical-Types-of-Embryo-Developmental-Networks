@@ -4,7 +4,7 @@
 
 New World Networks are networks that expand as a result of a growth/reduction or differentiation/conversion process.
 
-* new world networks are embryogenetic networks that expand according to a connectivity rule (e.g. preferential attachment).
+* new world networks are embryogenetic networks or developmental connectomes that expand according to a connectivity rule (e.g. preferential attachment).
 
 #### Propose a few connection rules: 
 
@@ -21,6 +21,8 @@ New World Networks are networks that expand as a result of a growth/reduction or
 Some of these (2-5) are demonstrated for _C. elegans_ in [Developmental trajectory of _Caenorhabditis elegans_ nervous system governs its structural organization](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007602) 
 
 These cells connect according to a connection rule, which then influences later identity and activity in ways that either introduce asymmetry or reinforce symmetry. The can be modeled using a first-mover game as shown in [Raising the Connectome: the emergence of neuronal activity and behavior in _C. elegans_](https://www.biorxiv.org/content/10.1101/2020.01.06.896308v1).
+
+New World Networks can also utilize multiple connection rules simultaneously, in a way that allows for equilibrium shifts in the first-mover game theory model.  
 
 #### Co-evolving networks: developmental connectome and embryogenetic network:
 
