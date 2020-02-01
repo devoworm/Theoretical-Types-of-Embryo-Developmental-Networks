@@ -6,9 +6,11 @@ New World Networks are networks that expand as a result of a growth/reduction or
 
 * new world networks are embryogenetic networks or developmental connectomes that expand according to a connectivity rule (e.g. preferential attachment).
 
-* expansion affects size, connectivity, and spatial extent of the network. The spatial extent is more about shape than size.  
+* expansion affects size, connectivity, and spatial extent of the network. The spatial extent is more about shape than size, although size can interact with spatial extent in a number of ways.  
 
-* new world models are generally expected to be scale-free [1], but have a number of additional properties that are relevant to the application domain.
+* _phenotypic velocity_ can then be defined as the change in size and/or spatial extent over a particular time interval.
+
+* new world models are generally expected to be scale-free [1], but have a number of additional properties that are relevant to the application domain.  
 
 #### Propose a few connection rules: 
 
