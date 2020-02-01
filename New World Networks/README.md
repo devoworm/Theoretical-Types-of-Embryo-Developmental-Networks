@@ -6,6 +6,10 @@ New World Networks are networks that expand as a result of a growth/reduction or
 
 * new world networks are embryogenetic networks or developmental connectomes that expand according to a connectivity rule (e.g. preferential attachment).
 
+* expansion affects size, connectivity, and spatial extent of the network. The spatial extent is more about shape than size.  
+
+* new world models are generally expected to be scale-free [1], but have a number of additional properties that are relevant to the application domain.
+
 #### Propose a few connection rules: 
 
 1) birth time.
@@ -39,3 +43,6 @@ As the developmental connectome increases in size (number of cells) and diameter
 * large-world networks, which are discussed in the paper [Is the brain really a small-world network?](https://link.springer.com/article/10.1007/s00429-015-1035-6): network expands faster than shortcuts can form. As a result, [small-world networks](http://www.scholarpedia.org/article/Small-world_network) can become disconnected.
 
 * suggests biologically-based and mathematically-rigorous alternatives to [preferential attachment](https://en.wikipedia.org/wiki/Preferential_attachment), which tends to reinforce hierarchies.
+
+#### References:
+[1] Albert, R. (2005). Scale-free networks in cell biology. Journal of Cell Science, 118(21), 4947-4957.  
