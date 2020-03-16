@@ -30,6 +30,14 @@ These cells connect according to a connection rule, which then influences later 
 
 New World Networks can also utilize multiple connection rules simultaneously, in a way that allows for equilibrium shifts in the first-mover game theory model.  
 
+#### Comparisons with idealized networks:
+
+* most distributed, nearest-neighbor.
+
+* scale-free, random.
+
+* new summary statistics (number of additions per unit time, preferential attachment rate, rewiring rate).
+
 #### Co-evolving networks: developmental connectome and embryogenetic network:
 
 As the developmental connectome increases in size (number of cells) and diameter (shortest path across network), the embryogenetic network in the same organism shifts its connectivity or decreases in size (disconnection of differentiated cells, reconnection to newer developmental cells).
