@@ -34,7 +34,7 @@ Network Emergent Connectivity using TSP and Euler Paths  [Github repo](https://g
 These types are based on degree distribution and the global patterns of connectivity. These types do not account for connectivity based on geometric or spatial constraints.  
 
 ## Experimental Control Networks:
-In Hilgetag and Goulas (2020, Figure 4), three types of experimental control networks are used to compare and contrast with a circular network layout of the primate visual system. The networks used have the following connectivity patterns on a curcular layout: most sequential, randomized, and most distributed.
+In Hilgetag and Goulas (2020, Figure 4), three types of experimental control networks are used to compare and contrast with a circular network layout of the primate visual system. The networks used have the following connectivity patterns on a circular layout: most sequential, randomized, and most distributed.
 
 Hilgetag, C.C. and Goulas, A. (2020). [‘Hierarchy’ in the organization of brain networks](http://dx.doi.org/10.1098/rstb.2019.0319). _Philisophical Transactions of the Royal Society B_, 375, 20190319.
 
