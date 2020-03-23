@@ -28,9 +28,7 @@ Aside from the new world network, the fundamental idea of networks expanding acc
 
 5) bilateral pairs (differentiation).
 
-Some of these (2-5) are demonstrated for _C. elegans_ in [Developmental trajectory of _Caenorhabditis elegans_ nervous system governs its structural organization](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007602) 
-
-These cells connect according to a connection rule, which then influences later identity and activity in ways that either introduce asymmetry or reinforce symmetry. The can be modeled using a first-mover game as shown in [Raising the Connectome: the emergence of neuronal activity and behavior in _C. elegans_](https://www.biorxiv.org/content/10.1101/2020.01.06.896308v1).
+Some of these (2-5) are demonstrated for _C. elegans_ in [4]. These cells connect according to a connection rule, which then influences later identity and activity in ways that either introduce asymmetry or reinforce symmetry. The can be modeled using a first-mover game as shown in [5].
 
 New World Networks can also utilize multiple connection rules simultaneously, in a way that allows for equilibrium shifts in the first-mover game theory model.  
 
@@ -46,7 +44,7 @@ New World Networks can also utilize multiple connection rules simultaneously, in
 
 As the developmental connectome increases in size (number of cells) and diameter (shortest path across network), the embryogenetic network in the same organism shifts its connectivity or decreases in size (disconnection of differentiated cells, reconnection to newer developmental cells).
 
-* we can work from the data in [4] to get a handle on the dynamics in _C. elegans_ development.
+* we can work from the data in [6] to get a handle on the dynamics in _C. elegans_ development.
 
 #### Key points:
 
@@ -65,4 +63,8 @@ As the developmental connectome increases in size (number of cells) and diameter
 
 [3] Gallos, L.K., Havlin, S., Stanley, E., and Fefferman, N.H. (2019). Propinquity drives the emergence of network structure and density. _PNAS_, 116(41), 20360–20365. doi:10.1073/pnas.1900219116
 
-[4] Alicea, B., Gordon, R., and Portegys, T.E. (2019). [Data-theoretical Synthesis of the Early Developmental Process](https://www.biorxiv.org/content/10.1101/282004v2). _bioRxiv_, doi:10.1101/282004. 
+[4] Pathak, A., Chatterjee, N., and Sinha, S. (2020). Developmental trajectory of _Caenorhabditis elegans_ nervous system governs its structural organization. _PLoS Computational Biology_, 16(1), e1007602. doi:10.1371/journal.pcbi.1007602
+
+[5] Alicea, B. (2020). Raising the Connectome: the emergence of neuronal activity and behavior in _C. elegans_. _bioRxiv_, doi:10.1101/2020.01.06.896308
+
+[6] Alicea, B., Gordon, R., and Portegys, T.E. (2019). [Data-theoretical Synthesis of the Early Developmental Process](https://www.biorxiv.org/content/10.1101/282004v2). _bioRxiv_, doi:10.1101/282004. 
