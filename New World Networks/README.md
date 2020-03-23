@@ -12,6 +12,10 @@ New World Networks are networks that expand as a result of a growth/reduction or
 
 * new world models are generally expected to be scale-free [1], but have a number of additional properties that are relevant to the application domain.  
 
+#### Models of Network Growth
+
+Aside from the new world network, the fundamental idea of networks expanding according to the needs of a given system over time is broader than just biology. Technical networks such as the internet [2] exhibit such qualities, in addition to a general class of network that requires a more continuous and dynamic representation [3].
+
 #### Propose a few connection rules: 
 
 1) birth time.
@@ -42,7 +46,7 @@ New World Networks can also utilize multiple connection rules simultaneously, in
 
 As the developmental connectome increases in size (number of cells) and diameter (shortest path across network), the embryogenetic network in the same organism shifts its connectivity or decreases in size (disconnection of differentiated cells, reconnection to newer developmental cells).
 
-* we can work from the data in "[Data-theoretical Synthesis of the Early Developmental Process](https://www.biorxiv.org/content/10.1101/282004v2)" to get a handle on the dynamics in _C. elegans_ development.
+* we can work from the data in [4] to get a handle on the dynamics in _C. elegans_ development.
 
 #### Key points:
 
@@ -55,4 +59,10 @@ As the developmental connectome increases in size (number of cells) and diameter
 * suggests biologically-based and mathematically-rigorous alternatives to [preferential attachment](https://en.wikipedia.org/wiki/Preferential_attachment), which tends to reinforce hierarchies.
 
 #### References:
-[1] Albert, R. (2005). Scale-free networks in cell biology. Journal of Cell Science, 118(21), 4947-4957.  
+[1] Albert, R. (2005). Scale-free networks in cell biology. _Journal of Cell Science_, 118(21), 4947-4957.  
+
+[2] Overgoor, J., Benson, A.R., and Ugander, J. (2019). Choosing to Grow a Graph: Modeling Network Formation as Discrete Choice. _World Wide Web Conference_, 1409–1420. doi:10.1145/3308558.3313662
+
+[3] Gallos, L.K., Havlin, S., Stanley, E., and Fefferman, N.H. (2019). Propinquity drives the emergence of network structure and density. _PNAS_, 116(41), 20360–20365. doi:10.1073/pnas.1900219116
+
+[4] Alicea, B., Gordon, R., and Portegys, T.E. (2019). [Data-theoretical Synthesis of the Early Developmental Process](https://www.biorxiv.org/content/10.1101/282004v2). _bioRxiv_, doi:10.1101/282004. 
