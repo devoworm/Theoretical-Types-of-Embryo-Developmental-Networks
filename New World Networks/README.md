@@ -28,9 +28,9 @@ Aside from the new world network, the fundamental idea of networks expanding acc
 
 5) bilateral pairs (differentiation).
 
-Some of these (2-5) are demonstrated for _C. elegans_ in [4]. These cells connect according to a connection rule, which then influences later identity and activity in ways that either introduce asymmetry or reinforce symmetry. The can be modeled using a first-mover game as shown in [5].
+Some of these (points 2-5) are demonstrated for _C. elegans_ in [4]. These cells connect according to a connection rule, which then influences later identity and activity in ways that either introduce asymmetry or reinforce symmetry. The can be modeled using a first-mover game as shown in [5].
 
-New World Networks can also utilize multiple connection rules simultaneously, in a way that allows for equilibrium shifts in the first-mover game theory model.  
+New World Networks can also utilize multiple connection rules simultaneously, in a way that allows for equilibrium shifts in the first-mover game theory model [6].  
 
 #### Comparisons with idealized networks:
 
@@ -44,7 +44,7 @@ New World Networks can also utilize multiple connection rules simultaneously, in
 
 As the developmental connectome increases in size (number of cells) and diameter (shortest path across network), the embryogenetic network in the same organism shifts its connectivity or decreases in size (disconnection of differentiated cells, reconnection to newer developmental cells).
 
-* we can work from the data in [6] to get a handle on the dynamics in _C. elegans_ development.
+* we can work from the data in [7] to get a handle on the dynamics in _C. elegans_ development.
 
 #### Key points:
 
@@ -67,4 +67,7 @@ As the developmental connectome increases in size (number of cells) and diameter
 
 [5] Alicea, B. (2020). Raising the Connectome: the emergence of neuronal activity and behavior in _C. elegans_. _bioRxiv_, doi:10.1101/2020.01.06.896308
 
-[6] Alicea, B., Gordon, R., and Portegys, T.E. (2019). [Data-theoretical Synthesis of the Early Developmental Process](https://www.biorxiv.org/content/10.1101/282004v2). _bioRxiv_, doi:10.1101/282004. 
+[6] Stone, R., Portegys, T., Mikhailovsky, G., and Alicea, B. (2018). Origins of the Embryo: self-organization through cybernetic regulation. _BioSystems_, 173, 73-82. doi:10.1016/j.biosystems.2018.08.005
+
+
+[7] Alicea, B., Gordon, R., and Portegys, T.E. (2019). [Data-theoretical Synthesis of the Early Developmental Process](https://www.biorxiv.org/content/10.1101/282004v2). _bioRxiv_, doi:10.1101/282004. 
