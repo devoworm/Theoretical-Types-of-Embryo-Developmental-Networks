@@ -1,5 +1,11 @@
 # Theoretical Types of Embryo/Developmental Networks  
 
+## Publications and Presentations
+
+Euler Cycles for Life [Abstract](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Euler%20Cycles%20for%20Life)
+
+Embryo Networks as Generative Divergent Integration [Abstract](https://github.com/devoworm/Proposals-Public-Lectures/tree/master/Embryo%20Networks%20as%20Generative%20Divergent%20Integration)
+
 ## Work from the DevoWorm group:
 
 ### Papers   
