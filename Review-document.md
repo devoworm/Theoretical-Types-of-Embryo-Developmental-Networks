@@ -13,6 +13,11 @@ Alicea, B. and Gordon R. (2018). [Cell Differentiation Processes as Spatial Netw
 
 Alicea, B. (2017). [The Emergent Connectome in _Caenorhabditis elegans_ Embryogenesis](https://doi.org/10.1101/146035). _BioSystems_, 173, 247-255.
 
+### Presentation  
+Embryo Networks as Generative Divergent Integration . Networks 2021.
+
+Euler Cycles for Life: developing biological structure using multi-cell networks. TopoNets (satellite of Networks 2021 conference).   
+
 ### Open Datasets   
 Alicea, B., Gordon, R., and Banerjee, A. (2018). [Embryo networks and connectomes in _Caenorhabditis elegans_](https://osf.io/q9jvb/). doi:10.17605/OSF.IO/Q9JVB. 
 
