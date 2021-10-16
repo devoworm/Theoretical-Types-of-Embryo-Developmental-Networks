@@ -105,13 +105,18 @@ Sadati, M., Qazvini, N.T., Krishnan, R., Park, C.Y., Fredberg, J.J. (2013). [Col
 Cota, W., Odor, G., and Ferreira, S.C. (2018). [Griffiths phases in infinite-dimensional, non-hierarchical modular 
 networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6002411/). _Scientific Reports_, 8, 9144. doi:10.1038/s41598-018-27506-x.
 
+### Symmetry-breaking in development:
+Durston, A.J. (2013). [Dislocation is a developmental mechanism in Dictyostelium and vertebrates](https://www.pnas.org/content/110/49/19826). _PNAS_, 110(49), 19826-19831.
+
+Grimes, D.T. (2019). [Making and breaking symmetry in development, growth and disease](https://journals.biologists.com/dev/article/146/16/dev170985/224169/Making-and-breaking-symmetry-in-development-growth).  _Development_, 146(16), dev170985.
+
 ## Wiring Minimization (Efficiency of Wiring):
 
 Chklovskii, D.B., Schikorski, T., Stevens, C.F. (2002). [Wiring Optimization in Cortical Circuits](https://www.sciencedirect.com/science/article/pii/S0896627302006797). _Neuron_, 34, 341–347.  
 
 Raj, A., Chen, Y-H. (2011). [The Wiring Economy Principle: Connectivity Determines Anatomy in the Human Brain](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0014832). _PLoS One_, 6(9), e14832.  
 
-Sporns, O. (2011). [The non-random brain: effciency, economy, and complex dynamics](https://www.frontiersin.org/articles/10.3389/fncom.2011.00005/full). _Frontiers in Computational Neuroscience_, doi:10.3389/fncom.2011.00005.  
+Sporns, O. (2011). [The non-random brain: efficiency, economy, and complex dynamics](https://www.frontiersin.org/articles/10.3389/fncom.2011.00005/full). _Frontiers in Computational Neuroscience_, doi:10.3389/fncom.2011.00005.  
 
 Avena-Koenigsberger, A., Yan, X., Kolchinsky, A., van den Heuvel, M.P., Hagmann, P., Sporns, O. (2019). [A spectrum of routing strategies for brain networks](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006833&type=printable). _PLoS Computational Biology_, 15(3), e1006833.  
 
